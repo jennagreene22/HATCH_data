@@ -1,0 +1,4 @@
+ID,2008,2014,2015,2016,2017,2019,Data Source,Country Name,Country Code,Spatial Scale,Metric,Technology Name,Unit
+Vanadium Redox-Flow Battery_Cumulative Total Capacity_World,0.00973,0.04259515,0.26201495,0.48033495000000004,0.7140149500000001,1.2140149500000001,Schmidt & Staffell,World,World,Global,Cumulative Total Capacity,Vanadium Redox-Flow Battery,GWh
+Vanadium Redox-Flow Battery_Levelized Cost of Energy_World,2909.845237204419,2054.0084027325306,1711.6736689437755,1369.3389351550204,1082.2143073627572,891.8224744893314,Schmidt & Staffell,World,World,Global,Levelized Cost of Energy,Vanadium Redox-Flow Battery,2022 USD/kWh
+Vanadium Redox-Flow Battery_Total Installed Cost_World,11270.492469725814,7955.641743335867,6629.701452779889,5303.761162223912,4191.662170143325,3454.231295380106,Schmidt & Staffell,World,World,Global,Total Installed Cost,Vanadium Redox-Flow Battery,2022 USD/kW

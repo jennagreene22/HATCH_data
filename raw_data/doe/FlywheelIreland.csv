@@ -1,0 +1,3 @@
+ID,2014,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Flywheel_Cumulative Rated Capacity_IE,4000.0,4256.0,Flywheel,Ireland,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,IE
+Flywheel_Cumulative Rated Power_IE,2000.0,2320.0,Flywheel,Ireland,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,IE

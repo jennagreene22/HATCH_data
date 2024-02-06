@@ -1,0 +1,3 @@
+ID,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Lithium-Ion Battery Storage_Cumulative Rated Power_EG,30000.0,Lithium-Ion Battery Storage,Egypt,kW,GESDB,Cumulative Rated Power,National,EG
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_EG,120000.0,Lithium-Ion Battery Storage,Egypt,kWh,GESDB,Cumulative Rated Capacity,National,EG

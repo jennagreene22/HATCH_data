@@ -1,0 +1,3 @@
+ID,2017,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Lithium-Ion Battery Storage_Cumulative Rated Power_SN,100.0,Lithium-Ion Battery Storage,Senegal,kW,GESDB,Cumulative Rated Power,National,SN
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_SN,400.0,Lithium-Ion Battery Storage,Senegal,kWh,GESDB,Cumulative Rated Capacity,National,SN

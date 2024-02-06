@@ -1,0 +1,3 @@
+ID,2013,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Compressed Air Energy Storage_Cumulative Rated Power_DE,200000.0,Compressed Air Energy Storage,Germany,kW,GESDB,Cumulative Rated Power,National,DE
+Compressed Air Energy Storage_Cumulative Rated Capacity_DE,1000000.0,Compressed Air Energy Storage,Germany,kWh,GESDB,Cumulative Rated Capacity,National,DE

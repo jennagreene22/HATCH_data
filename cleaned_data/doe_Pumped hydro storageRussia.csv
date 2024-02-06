@@ -1,0 +1,3 @@
+ID,1969,2003,2007,2010,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Pumped Hydro Storage_Cumulative Rated Power_RU,15900.0,1215900.0,2055900.0,2195900.0,Pumped Hydro Storage,Russia,kW,GESDB,Cumulative Rated Power,National,RU
+Pumped Hydro Storage_Cumulative Rated Capacity_RU,0.0,0.0,0.0,0.0,Pumped Hydro Storage,Russia,kWh,GESDB,Cumulative Rated Capacity,National,RU

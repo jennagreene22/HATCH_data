@@ -1,0 +1,3 @@
+ID,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Compressed Air Energy Storage_Cumulative Rated Power_CH,500.0,Compressed Air Energy Storage,Switzerland,kW,GESDB,Cumulative Rated Power,National,CH
+Compressed Air Energy Storage_Cumulative Rated Capacity_CH,2000.0,Compressed Air Energy Storage,Switzerland,kWh,GESDB,Cumulative Rated Capacity,National,CH

@@ -1,0 +1,3 @@
+ID,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Sensible heat_Cumulative Rated Capacity_AE,1000.0,Sensible heat,United Arab Emirates,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,AE
+Sensible heat_Cumulative Rated Power_AE,100.0,Sensible heat,United Arab Emirates,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,AE

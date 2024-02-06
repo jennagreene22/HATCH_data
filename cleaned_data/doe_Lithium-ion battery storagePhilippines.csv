@@ -1,0 +1,3 @@
+ID,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Lithium-Ion Battery Storage_Cumulative Rated Power_PH,10000.0,Lithium-Ion Battery Storage,Philippines,kW,GESDB,Cumulative Rated Power,National,PH
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_PH,0.0,Lithium-Ion Battery Storage,Philippines,kWh,GESDB,Cumulative Rated Capacity,National,PH

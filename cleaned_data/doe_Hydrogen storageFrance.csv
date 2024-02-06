@@ -1,0 +1,3 @@
+ID,2012,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Hydrogen Storage_Cumulative Rated Power_FR,150.0,Hydrogen Storage,France,kW,GESDB,Cumulative Rated Power,National,FR
+Hydrogen Storage_Cumulative Rated Capacity_FR,0.0,Hydrogen Storage,France,kWh,GESDB,Cumulative Rated Capacity,National,FR

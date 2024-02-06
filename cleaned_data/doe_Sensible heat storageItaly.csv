@@ -1,0 +1,3 @@
+ID,2010,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Sensible Heat Storage_Cumulative Rated Power_IT,4720.0,5120.0,Sensible Heat Storage,Italy,kW,GESDB,Cumulative Rated Power,National,IT
+Sensible Heat Storage_Cumulative Rated Capacity_IT,37760.0,40960.0,Sensible Heat Storage,Italy,kWh,GESDB,Cumulative Rated Capacity,National,IT

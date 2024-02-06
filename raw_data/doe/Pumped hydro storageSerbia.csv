@@ -1,0 +1,3 @@
+ID,1982,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Pumped hydro storage_Cumulative Rated Capacity_RS,,Pumped hydro storage,Serbia,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,RS
+Pumped hydro storage_Cumulative Rated Power_RS,614000.0,Pumped hydro storage,Serbia,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,RS

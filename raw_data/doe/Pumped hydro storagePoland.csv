@@ -1,0 +1,3 @@
+ID,1968,1971,1979,1983,1997,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Pumped hydro storage_Cumulative Rated Capacity_PL,,,2000000.0,,,Pumped hydro storage,Poland,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,PL
+Pumped hydro storage_Cumulative Rated Power_PL,200000.0,356000.0,856000.0,1572000.0,1654800.0,Pumped hydro storage,Poland,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,PL

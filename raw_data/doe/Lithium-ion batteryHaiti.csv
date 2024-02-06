@@ -1,0 +1,3 @@
+ID,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Lithium-ion battery_Cumulative Rated Capacity_HT,900.0,Lithium-ion battery,Haiti,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,HT
+Lithium-ion battery_Cumulative Rated Power_HT,800.0,Lithium-ion battery,Haiti,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,HT

@@ -1,0 +1,3 @@
+ID,1944,1978,1996,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Pumped hydro storage_Cumulative Rated Capacity_CZ,219600.0,2523600.0,5721600.0,Pumped hydro storage,Czech Republic,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,CZ
+Pumped hydro storage_Cumulative Rated Power_CZ,45000.0,495000.0,1145000.0,Pumped hydro storage,Czech Republic,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,CZ

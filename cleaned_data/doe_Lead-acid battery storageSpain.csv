@@ -1,0 +1,3 @@
+ID,2015,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Lead-Acid Battery Storage_Cumulative Rated Power_ES,50.0,90.0,Lead-Acid Battery Storage,Spain,kW,GESDB,Cumulative Rated Power,National,ES
+Lead-Acid Battery Storage_Cumulative Rated Capacity_ES,15.0,111.0,Lead-Acid Battery Storage,Spain,kWh,GESDB,Cumulative Rated Capacity,National,ES

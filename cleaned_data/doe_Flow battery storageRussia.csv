@@ -1,0 +1,3 @@
+ID,2014,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Flow Battery Storage_Cumulative Rated Power_RU,25.0,Flow Battery Storage,Russia,kW,GESDB,Cumulative Rated Power,National,RU
+Flow Battery Storage_Cumulative Rated Capacity_RU,50.0,Flow Battery Storage,Russia,kWh,GESDB,Cumulative Rated Capacity,National,RU

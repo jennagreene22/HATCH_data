@@ -1,0 +1,3 @@
+ID,2013,2014,2015,2016,2020,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Zinc-Based Battery_Cumulative Rated Power_US,1000.0,1100.0,4100.0,4350.0,14350.0,Zinc-Based Battery,United States,kW,GESDB,Cumulative Rated Power,National,US
+Zinc-Based Battery_Cumulative Rated Capacity_US,6000.0,6000.0,12000.0,13075.0,53075.0,Zinc-Based Battery,United States,kWh,GESDB,Cumulative Rated Capacity,National,US

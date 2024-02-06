@@ -1,0 +1,3 @@
+ID,2008,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Flywheel_Cumulative Rated Capacity_CZ,,Flywheel,Czech Republic,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,CZ
+Flywheel_Cumulative Rated Power_CZ,70000.0,Flywheel,Czech Republic,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,CZ

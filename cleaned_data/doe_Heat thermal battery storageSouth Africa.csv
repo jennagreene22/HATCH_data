@@ -1,0 +1,3 @@
+ID,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Heat Thermal Battery Storage_Cumulative Rated Power_ZA,50000.0,Heat Thermal Battery Storage,South Africa,kW,GESDB,Cumulative Rated Power,National,ZA
+Heat Thermal Battery Storage_Cumulative Rated Capacity_ZA,100000.0,Heat Thermal Battery Storage,South Africa,kWh,GESDB,Cumulative Rated Capacity,National,ZA

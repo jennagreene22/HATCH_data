@@ -1,0 +1,3 @@
+ID,2014,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Hydrogen Storage_Cumulative Rated Power_CA,2000.0,Hydrogen Storage,Canada,kW,GESDB,Cumulative Rated Power,National,CA
+Hydrogen Storage_Cumulative Rated Capacity_CA,0.0,Hydrogen Storage,Canada,kWh,GESDB,Cumulative Rated Capacity,National,CA

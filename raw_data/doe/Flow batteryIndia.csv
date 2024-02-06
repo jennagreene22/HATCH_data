@@ -1,0 +1,3 @@
+ID,2012,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Flow battery_Cumulative Rated Capacity_IN,300.15,420.15,Flow battery,India,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,IN
+Flow battery_Cumulative Rated Power_IN,45.0,75.0,Flow battery,India,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,IN

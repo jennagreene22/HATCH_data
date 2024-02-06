@@ -1,0 +1,3 @@
+ID,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Flow Battery Storage_Cumulative Rated Power_ZA,625.0,Flow Battery Storage,South Africa,kW,GESDB,Cumulative Rated Power,National,ZA
+Flow Battery Storage_Cumulative Rated Capacity_ZA,2500.0,Flow Battery Storage,South Africa,kWh,GESDB,Cumulative Rated Capacity,National,ZA

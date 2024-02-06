@@ -1,0 +1,3 @@
+ID,1988,1995,2013,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Pumped Hydro Storage_Cumulative Rated Power_BG,160000.0,948000.0,1052000.0,Pumped Hydro Storage,Bulgaria,kW,GESDB,Cumulative Rated Power,National,BG
+Pumped Hydro Storage_Cumulative Rated Capacity_BG,0.0,6698000.0,6698000.0,Pumped Hydro Storage,Bulgaria,kWh,GESDB,Cumulative Rated Capacity,National,BG

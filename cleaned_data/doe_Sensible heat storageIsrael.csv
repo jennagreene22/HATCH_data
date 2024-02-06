@@ -1,0 +1,3 @@
+ID,2017,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Sensible Heat Storage_Cumulative Rated Power_IL,121000.0,Sensible Heat Storage,Israel,kW,GESDB,Cumulative Rated Power,National,IL
+Sensible Heat Storage_Cumulative Rated Capacity_IL,544500.0,Sensible Heat Storage,Israel,kWh,GESDB,Cumulative Rated Capacity,National,IL

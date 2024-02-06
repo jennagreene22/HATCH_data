@@ -1,0 +1,3 @@
+ID,1974,2020,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Pumped hydro storage_Cumulative Rated Capacity_IE,1752000.0,1761000.0,Pumped hydro storage,Ireland,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,IE
+Pumped hydro storage_Cumulative Rated Power_IE,292000.0,293500.0,Pumped hydro storage,Ireland,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,IE

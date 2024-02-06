@@ -1,0 +1,3 @@
+ID,1953,1972,1975,1981,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Pumped Hydro Storage_Cumulative Rated Power_SK,24000.0,84000.0,282000.0,1017160.0,Pumped Hydro Storage,Slovakia,kW,GESDB,Cumulative Rated Power,National,SK
+Pumped Hydro Storage_Cumulative Rated Capacity_SK,0.0,0.0,0.0,0.0,Pumped Hydro Storage,Slovakia,kWh,GESDB,Cumulative Rated Capacity,National,SK

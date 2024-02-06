@@ -1,0 +1,3 @@
+ID,2014,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Heat thermal storage_Cumulative Rated Capacity_MA,5850.0,Heat thermal storage,Morocco,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,MA
+Heat thermal storage_Cumulative Rated Power_MA,650.0,Heat thermal storage,Morocco,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,MA

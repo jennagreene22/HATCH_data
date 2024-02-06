@@ -1,0 +1,3 @@
+ID,2004,2010,2011,2012,2013,2014,2015,2016,2018,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Flow Battery Storage_Cumulative Rated Power_US,250.0,1430.0,1680.0,2965.0,31590.0,32905.0,34253.0,36891.0,37891.0,Flow Battery Storage,United States,kW,GESDB,Cumulative Rated Power,National,US
+Flow Battery Storage_Cumulative Rated Capacity_US,2000.0,10940.0,11440.0,16606.25,129856.25,133835.95,138227.95,149607.95,151607.95,Flow Battery Storage,United States,kWh,GESDB,Cumulative Rated Capacity,National,US

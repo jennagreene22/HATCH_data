@@ -1,0 +1,3 @@
+ID,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Flow Battery Storage_Cumulative Rated Power_KZ,25000.0,Flow Battery Storage,Kazakhstan,kW,GESDB,Cumulative Rated Power,National,KZ
+Flow Battery Storage_Cumulative Rated Capacity_KZ,100000.0,Flow Battery Storage,Kazakhstan,kWh,GESDB,Cumulative Rated Capacity,National,KZ

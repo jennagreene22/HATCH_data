@@ -1,0 +1,3 @@
+ID,1951,1957,1966,1975,1976,1979,1982,1983,1986,1987,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Pumped Hydro Storage_Cumulative Rated Power_FR,11000.0,59000.0,299000.0,609000.0,1409000.0,1889000.0,2799000.0,3244000.0,3992000.0,5812000.0,Pumped Hydro Storage,France,kW,GESDB,Cumulative Rated Power,National,FR
+Pumped Hydro Storage_Cumulative Rated Capacity_FR,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Pumped Hydro Storage,France,kWh,GESDB,Cumulative Rated Capacity,National,FR

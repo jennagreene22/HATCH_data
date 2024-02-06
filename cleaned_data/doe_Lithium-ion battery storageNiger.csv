@@ -1,0 +1,3 @@
+ID,2014,2015,2017,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Lithium-Ion Battery Storage_Cumulative Rated Power_NE,45.0,90.0,190.0,Lithium-Ion Battery Storage,Niger,kW,GESDB,Cumulative Rated Power,National,NE
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_NE,180.0,360.0,760.0,Lithium-Ion Battery Storage,Niger,kWh,GESDB,Cumulative Rated Capacity,National,NE

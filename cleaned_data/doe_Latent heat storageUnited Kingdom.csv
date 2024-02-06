@@ -1,0 +1,3 @@
+ID,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Latent Heat Storage_Cumulative Rated Power_GB,5350.0,Latent Heat Storage,United Kingdom,kW,GESDB,Cumulative Rated Power,National,GB
+Latent Heat Storage_Cumulative Rated Capacity_GB,17450.0,Latent Heat Storage,United Kingdom,kWh,GESDB,Cumulative Rated Capacity,National,GB

@@ -1,0 +1,3 @@
+ID,2000,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Pumped Hydro Storage_Cumulative Rated Power_LT,900000.0,Pumped Hydro Storage,Lithuania,kW,GESDB,Cumulative Rated Power,National,LT
+Pumped Hydro Storage_Cumulative Rated Capacity_LT,10800000.0,Pumped Hydro Storage,Lithuania,kWh,GESDB,Cumulative Rated Capacity,National,LT

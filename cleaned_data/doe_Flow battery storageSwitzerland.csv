@@ -1,0 +1,3 @@
+ID,2014,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Flow Battery Storage_Cumulative Rated Power_CH,10.0,210.0,Flow Battery Storage,Switzerland,kW,GESDB,Cumulative Rated Power,National,CH
+Flow Battery Storage_Cumulative Rated Capacity_CH,60.0,460.0,Flow Battery Storage,Switzerland,kWh,GESDB,Cumulative Rated Capacity,National,CH

@@ -1,0 +1,3 @@
+ID,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Flow battery_Cumulative Rated Capacity_SI,45.0,Flow battery,Slovenia,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,SI
+Flow battery_Cumulative Rated Power_SI,10.0,Flow battery,Slovenia,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,SI

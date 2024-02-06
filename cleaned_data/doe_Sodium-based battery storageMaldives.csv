@@ -1,0 +1,3 @@
+ID,2013,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Sodium-Based Battery Storage_Cumulative Rated Power_MV,600.0,Sodium-Based Battery Storage,Maldives,kW,GESDB,Cumulative Rated Power,National,MV
+Sodium-Based Battery Storage_Cumulative Rated Capacity_MV,1500.0,Sodium-Based Battery Storage,Maldives,kWh,GESDB,Cumulative Rated Capacity,National,MV

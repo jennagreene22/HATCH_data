@@ -1,0 +1,3 @@
+ID,2012,2013,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Flywheel_Cumulative Rated Capacity_ES,,,Flywheel,Spain,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,ES
+Flywheel_Cumulative Rated Power_ES,1600.0,2100.0,Flywheel,Spain,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,ES

@@ -1,0 +1,3 @@
+ID,2014,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Compressed air energy storage_Cumulative Rated Capacity_CA,4000.0,6160.0,Compressed air energy storage,Canada,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,CA
+Compressed air energy storage_Cumulative Rated Power_CA,1000.0,2160.0,Compressed air energy storage,Canada,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,CA

@@ -1,0 +1,3 @@
+ID,2010,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Flow Battery Storage_Cumulative Rated Power_NL,10.0,Flow Battery Storage,Netherlands,kW,GESDB,Cumulative Rated Power,National,NL
+Flow Battery Storage_Cumulative Rated Capacity_NL,80.0,Flow Battery Storage,Netherlands,kWh,GESDB,Cumulative Rated Capacity,National,NL

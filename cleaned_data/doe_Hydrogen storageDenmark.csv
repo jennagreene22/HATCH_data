@@ -1,0 +1,3 @@
+ID,2017,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Hydrogen Storage_Cumulative Rated Power_DK,1250.0,Hydrogen Storage,Denmark,kW,GESDB,Cumulative Rated Power,National,DK
+Hydrogen Storage_Cumulative Rated Capacity_DK,0.0,Hydrogen Storage,Denmark,kWh,GESDB,Cumulative Rated Capacity,National,DK

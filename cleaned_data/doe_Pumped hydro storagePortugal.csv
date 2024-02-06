@@ -1,0 +1,3 @@
+ID,1981,1988,2004,2005,2015,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Pumped Hydro Storage_Cumulative Rated Power_PT,336000.0,476000.0,996000.0,1187600.0,1398600.0,3353600.0,Pumped Hydro Storage,Portugal,kW,GESDB,Cumulative Rated Power,National,PT
+Pumped Hydro Storage_Cumulative Rated Capacity_PT,39201120.0,49201320.0,49201320.0,49201320.0,49201320.0,49201320.0,Pumped Hydro Storage,Portugal,kWh,GESDB,Cumulative Rated Capacity,National,PT

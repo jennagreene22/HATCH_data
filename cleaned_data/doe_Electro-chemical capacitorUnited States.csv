@@ -1,0 +1,3 @@
+ID,2013,2014,2015,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Electro-Chemical Capacitor_Cumulative Rated Power_US,1000.0,1070.0,2098.0,2348.0,Electro-Chemical Capacitor,United States,kW,GESDB,Cumulative Rated Power,National,US
+Electro-Chemical Capacitor_Cumulative Rated Capacity_US,200.0,249.0,471.4,546.4,Electro-Chemical Capacitor,United States,kWh,GESDB,Cumulative Rated Capacity,National,US

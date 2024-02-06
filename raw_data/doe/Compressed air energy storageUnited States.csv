@@ -1,0 +1,3 @@
+ID,1991,2012,2013,2015,2020,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Compressed air energy storage_Cumulative Rated Capacity_US,2860000.0,3360000.0,33793560.0,,36793560.0,Compressed air energy storage,United States,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,US
+Compressed air energy storage_Cumulative Rated Power_US,110000.0,112000.0,430580.0,430580.0,730580.0,Compressed air energy storage,United States,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,US

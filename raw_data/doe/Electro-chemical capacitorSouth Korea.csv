@@ -1,0 +1,3 @@
+ID,2012,2013,2014,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Electro-chemical capacitor_Cumulative Rated Capacity_KR,,,,Electro-chemical capacitor,South Korea,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,KR
+Electro-chemical capacitor_Cumulative Rated Power_KR,2340.0,7600.0,8800.0,Electro-chemical capacitor,South Korea,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,KR

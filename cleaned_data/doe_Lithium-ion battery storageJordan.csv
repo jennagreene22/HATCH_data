@@ -1,0 +1,3 @@
+ID,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Lithium-Ion Battery Storage_Cumulative Rated Power_JO,20000.0,Lithium-Ion Battery Storage,Jordan,kW,GESDB,Cumulative Rated Power,National,JO
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_JO,0.0,Lithium-Ion Battery Storage,Jordan,kWh,GESDB,Cumulative Rated Capacity,National,JO

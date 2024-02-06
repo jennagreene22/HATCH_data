@@ -1,0 +1,3 @@
+ID,2012,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Flow Battery Storage_Cumulative Rated Power_ID,400.0,Flow Battery Storage,Indonesia,kW,GESDB,Cumulative Rated Power,National,ID
+Flow Battery Storage_Cumulative Rated Capacity_ID,500.0,Flow Battery Storage,Indonesia,kWh,GESDB,Cumulative Rated Capacity,National,ID

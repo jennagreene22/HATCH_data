@@ -1,0 +1,3 @@
+ID,1956,1958,1969,1972,1976,1979,1980,1981,1988,2009,2010,2011,2013,2014,2018,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Pumped Hydro Storage_Cumulative Rated Power_AT,113000.0,345000.0,352000.0,583000.0,878000.0,1728000.0,2017000.0,2125000.0,2485000.0,3010000.0,3022000.0,3692000.0,3890000.0,4320000.0,4680000.0,Pumped Hydro Storage,Austria,kW,GESDB,Cumulative Rated Power,National,AT
+Pumped Hydro Storage_Cumulative Rated Capacity_AT,0.0,0.0,0.0,0.0,0.0,0.0,3641400.0,3641400.0,3641400.0,3641400.0,3641400.0,3641400.0,3641400.0,3641400.0,3641400.0,Pumped Hydro Storage,Austria,kWh,GESDB,Cumulative Rated Capacity,National,AT

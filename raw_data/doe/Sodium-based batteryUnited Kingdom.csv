@@ -1,0 +1,3 @@
+ID,2010,2013,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Sodium-based battery_Cumulative Rated Capacity_GB,6000.0,6500.0,6522.0,Sodium-based battery,United Kingdom,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,GB
+Sodium-based battery_Cumulative Rated Power_GB,1000.0,1250.0,1261.0,Sodium-based battery,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,GB

@@ -1,0 +1,3 @@
+ID,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Lithium-Ion Battery Storage_Cumulative Rated Power_HK,2000.0,Lithium-Ion Battery Storage,Hong Kong,kW,GESDB,Cumulative Rated Power,National,HK
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_HK,1000.0,Lithium-Ion Battery Storage,Hong Kong,kWh,GESDB,Cumulative Rated Capacity,National,HK

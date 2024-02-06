@@ -1,0 +1,3 @@
+ID,1972,1983,1988,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Pumped hydro storage_Cumulative Rated Capacity_UA,,,,Pumped hydro storage,Ukraine,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,UA
+Pumped hydro storage_Cumulative Rated Power_UA,603000.0,905000.0,3173000.0,Pumped hydro storage,Ukraine,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,UA

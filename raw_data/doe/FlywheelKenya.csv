@@ -1,0 +1,3 @@
+ID,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Flywheel_Cumulative Rated Capacity_KE,,Flywheel,Kenya,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,KE
+Flywheel_Cumulative Rated Power_KE,500.0,Flywheel,Kenya,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,KE

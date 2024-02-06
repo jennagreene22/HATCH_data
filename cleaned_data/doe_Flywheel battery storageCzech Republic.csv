@@ -1,0 +1,3 @@
+ID,2008,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Flywheel Battery Storage_Cumulative Rated Power_CZ,70000.0,Flywheel Battery Storage,Czech Republic,kW,GESDB,Cumulative Rated Power,National,CZ
+Flywheel Battery Storage_Cumulative Rated Capacity_CZ,0.0,Flywheel Battery Storage,Czech Republic,kWh,GESDB,Cumulative Rated Capacity,National,CZ

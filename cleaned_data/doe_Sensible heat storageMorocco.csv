@@ -1,0 +1,3 @@
+ID,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Sensible Heat Storage_Cumulative Rated Power_MA,160000.0,Sensible Heat Storage,Morocco,kW,GESDB,Cumulative Rated Power,National,MA
+Sensible Heat Storage_Cumulative Rated Capacity_MA,480000.0,Sensible Heat Storage,Morocco,kWh,GESDB,Cumulative Rated Capacity,National,MA

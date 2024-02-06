@@ -1,0 +1,3 @@
+ID,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Sensible heat_Cumulative Rated Capacity_CN,25000.0,Sensible heat,China,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,CN
+Sensible heat_Cumulative Rated Power_CN,10000.0,Sensible heat,China,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,CN

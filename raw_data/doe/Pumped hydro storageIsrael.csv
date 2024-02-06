@@ -1,0 +1,3 @@
+ID,2018,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Pumped hydro storage_Cumulative Rated Capacity_IL,,Pumped hydro storage,Israel,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,IL
+Pumped hydro storage_Cumulative Rated Power_IL,300000.0,Pumped hydro storage,Israel,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,IL

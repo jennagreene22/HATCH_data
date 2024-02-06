@@ -1,0 +1,3 @@
+ID,2010,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Latent Heat Storage_Cumulative Rated Power_CA,15.0,Latent Heat Storage,Canada,kW,GESDB,Cumulative Rated Power,National,CA
+Latent Heat Storage_Cumulative Rated Capacity_CA,70.05,Latent Heat Storage,Canada,kWh,GESDB,Cumulative Rated Capacity,National,CA

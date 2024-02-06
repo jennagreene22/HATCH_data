@@ -1,0 +1,3 @@
+ID,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Flow Battery Storage_Cumulative Rated Power_AG,3000.0,Flow Battery Storage,Antigua and Barbuda,kW,GESDB,Cumulative Rated Power,National,AG
+Flow Battery Storage_Cumulative Rated Capacity_AG,12000.0,Flow Battery Storage,Antigua and Barbuda,kWh,GESDB,Cumulative Rated Capacity,National,AG

@@ -1,0 +1,3 @@
+ID,1979,1981,1988,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Pumped Hydro Storage_Cumulative Rated Power_ZA,180000.0,1180000.0,1580000.0,Pumped Hydro Storage,South Africa,kW,GESDB,Cumulative Rated Power,National,ZA
+Pumped Hydro Storage_Cumulative Rated Capacity_ZA,2790000.0,12790000.0,16790000.0,Pumped Hydro Storage,South Africa,kWh,GESDB,Cumulative Rated Capacity,National,ZA

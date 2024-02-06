@@ -1,0 +1,3 @@
+ID,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Lithium-Ion Battery Storage_Cumulative Rated Power_FI,3200.0,Lithium-Ion Battery Storage,Finland,kW,GESDB,Cumulative Rated Power,National,FI
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_FI,1600.0,Lithium-Ion Battery Storage,Finland,kWh,GESDB,Cumulative Rated Capacity,National,FI

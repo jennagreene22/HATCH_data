@@ -1,0 +1,3 @@
+ID,2009,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Flywheel_Cumulative Rated Capacity_AQ,,Flywheel,Antarctica,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,AQ
+Flywheel_Cumulative Rated Power_AQ,500.0,Flywheel,Antarctica,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,AQ

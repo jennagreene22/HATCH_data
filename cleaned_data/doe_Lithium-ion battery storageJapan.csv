@@ -1,0 +1,3 @@
+ID,2010,2012,2013,2014,2015,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Lithium-Ion Battery Storage_Cumulative Rated Power_JP,100.0,2268.0,3595.0,13895.0,56895.0,103395.0,Lithium-Ion Battery Storage,Japan,kW,GESDB,Cumulative Rated Power,National,JP
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_JP,200.0,2837.6,3892.8199999999997,12924.82,40279.82,87479.82,Lithium-Ion Battery Storage,Japan,kWh,GESDB,Cumulative Rated Capacity,National,JP

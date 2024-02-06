@@ -1,0 +1,3 @@
+ID,2001,2002,2003,2004,2005,2006,2007,2008,2009,Data Source,Spatial Scale,Country Name,Country Code,Metric,Unit,Technology Name
+Shotgun Sanger DNA Sequencing_Price_World,5.292392885,3.6562183035,2.608589953,1.21773069775,0.88438912925,0.642334236,0.479592436,0.5953820595,1.019259585,Santa Fe Institute,Global,World,World,Price,USD/kilobase,Shotgun Sanger DNA Sequencing
+Shotgun Sanger DNA Sequencing_Total Number_World,32400720.0,37467912.0,65732532.0,101584260.0,123323652.0,134985216.0,121453140.0,32444760.0,17432604.0,Santa Fe Institute,Global,World,World,Total Number,kilobase,Shotgun Sanger DNA Sequencing

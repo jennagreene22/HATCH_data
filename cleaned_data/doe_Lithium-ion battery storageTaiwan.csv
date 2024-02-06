@@ -1,0 +1,3 @@
+ID,2010,2012,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Lithium-Ion Battery Storage_Cumulative Rated Power_TW,100.0,725.0,Lithium-Ion Battery Storage,Taiwan,kW,GESDB,Cumulative Rated Power,National,TW
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_TW,250.0,1750.0,Lithium-Ion Battery Storage,Taiwan,kWh,GESDB,Cumulative Rated Capacity,National,TW

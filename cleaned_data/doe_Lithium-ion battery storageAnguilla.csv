@@ -1,0 +1,3 @@
+ID,2014,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Lithium-Ion Battery Storage_Cumulative Rated Power_AI,500.0,Lithium-Ion Battery Storage,Anguilla,kW,GESDB,Cumulative Rated Power,National,AI
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_AI,250.0,Lithium-Ion Battery Storage,Anguilla,kWh,GESDB,Cumulative Rated Capacity,National,AI

@@ -1,0 +1,3 @@
+ID,2010,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Nickel-Based Battery_Cumulative Rated Power_NL,3000.0,Nickel-Based Battery,Netherlands,kW,GESDB,Cumulative Rated Power,National,NL
+Nickel-Based Battery_Cumulative Rated Capacity_NL,2400.0,Nickel-Based Battery,Netherlands,kWh,GESDB,Cumulative Rated Capacity,National,NL

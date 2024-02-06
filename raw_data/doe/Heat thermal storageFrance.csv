@@ -1,0 +1,3 @@
+ID,2013,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Heat thermal storage_Cumulative Rated Capacity_FR,12000.0,21000.0,Heat thermal storage,France,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,FR
+Heat thermal storage_Cumulative Rated Power_FR,12000.0,21000.0,Heat thermal storage,France,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,FR

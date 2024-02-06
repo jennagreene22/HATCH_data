@@ -1,0 +1,3 @@
+ID,2013,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Flow battery_Cumulative Rated Capacity_GB,1680.0,1880.0,Flow battery,United Kingdom,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,GB
+Flow battery_Cumulative Rated Power_GB,100.0,145.0,Flow battery,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,GB

@@ -1,0 +1,3 @@
+ID,2018,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Lithium-ion battery_Cumulative Rated Capacity_GA,400.0,Lithium-ion battery,Gabon,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,GA
+Lithium-ion battery_Cumulative Rated Power_GA,100.0,Lithium-ion battery,Gabon,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,GA

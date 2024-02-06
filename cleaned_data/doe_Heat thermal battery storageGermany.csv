@@ -1,0 +1,3 @@
+ID,2008,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Heat Thermal Battery Storage_Cumulative Rated Power_DE,1500.0,Heat Thermal Battery Storage,Germany,kW,GESDB,Cumulative Rated Power,National,DE
+Heat Thermal Battery Storage_Cumulative Rated Capacity_DE,2250.0,Heat Thermal Battery Storage,Germany,kWh,GESDB,Cumulative Rated Capacity,National,DE

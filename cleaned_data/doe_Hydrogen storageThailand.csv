@@ -1,0 +1,3 @@
+ID,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Hydrogen Storage_Cumulative Rated Power_TH,300.0,Hydrogen Storage,Thailand,kW,GESDB,Cumulative Rated Power,National,TH
+Hydrogen Storage_Cumulative Rated Capacity_TH,999.0,Hydrogen Storage,Thailand,kWh,GESDB,Cumulative Rated Capacity,National,TH

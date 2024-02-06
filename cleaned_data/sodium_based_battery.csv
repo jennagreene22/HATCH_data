@@ -1,0 +1,4 @@
+ID,2007,2010,2012,2013,2015,2020,2021,Data Source,Country Name,Country Code,Spatial Scale,Metric,Technology Name,Unit
+Sodium-Sulphur Battery_Cumulative Total Capacity_World,1.5835399432581734,1.896,1.896,2.448,3.7,4.0,4.1,Schmidt & Staffell,World,World,Global,Cumulative Total Capacity,Sodium-Sulphur Battery,GWh
+Sodium-Sulphur Battery_Levelized Cost of Energy_World,687.1954582259717,635.5362059082669,639.8481602218837,957.7789981202428,579.7685625639313,441.31300167048255,726.5589574142749,Schmidt & Staffell,World,World,Global,Levelized Cost of Energy,Sodium-Sulphur Battery,2022 USD/kWh
+Sodium-Sulphur Battery_Total Installed Cost_World,4123.17274935583,3813.2172354496015,3839.0889613313025,5746.673988721457,3478.611375383588,2647.878010022896,4359.353744485649,Schmidt & Staffell,World,World,Global,Total Installed Cost,Sodium-Sulphur Battery,2022 USD/kW

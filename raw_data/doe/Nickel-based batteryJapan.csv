@@ -1,0 +1,3 @@
+ID,2013,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Nickel-based battery_Cumulative Rated Capacity_JP,75.0,Nickel-based battery,Japan,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,JP
+Nickel-based battery_Cumulative Rated Power_JP,300.0,Nickel-based battery,Japan,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,JP

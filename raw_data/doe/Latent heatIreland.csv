@@ -1,0 +1,3 @@
+ID,2011,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Latent heat_Cumulative Rated Capacity_IE,,Latent heat,Ireland,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,IE
+Latent heat_Cumulative Rated Power_IE,4560.0,Latent heat,Ireland,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,IE

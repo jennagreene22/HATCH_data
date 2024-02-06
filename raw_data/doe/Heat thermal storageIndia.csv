@@ -1,0 +1,3 @@
+ID,2011,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Heat thermal storage_Cumulative Rated Capacity_IN,16000.0,Heat thermal storage,India,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,IN
+Heat thermal storage_Cumulative Rated Power_IN,1000.0,Heat thermal storage,India,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,IN

@@ -1,0 +1,3 @@
+ID,2017,2018,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Lithium-Ion Battery Storage_Cumulative Rated Power_BF,100.0,200.0,Lithium-Ion Battery Storage,Burkina-Faso,kW,GESDB,Cumulative Rated Power,National,BF
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_BF,400.0,800.0,Lithium-Ion Battery Storage,Burkina-Faso,kWh,GESDB,Cumulative Rated Capacity,National,BF

@@ -1,0 +1,3 @@
+ID,2014,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Sensible heat_Cumulative Rated Capacity_CL,1925000.0,2492000.0,Sensible heat,Chile,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,CL
+Sensible heat_Cumulative Rated Power_CL,110000.0,210000.0,Sensible heat,Chile,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,CL

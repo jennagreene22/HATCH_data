@@ -1,0 +1,3 @@
+ID,1982,1996,1999,2003,2007,2009,2010,2011,2013,2014,2015,2016,2018,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Sensible heat_Cumulative Rated Capacity_US,3376.0,21776.0,72776.0,79776.0,,,103776.0,111776.0,1909701.0,,3025701.0,,,Sensible heat,United States,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,US
+Sensible heat_Cumulative Rated Power_US,422.0,2722.0,7822.0,8697.0,10197.0,102197.0,105197.0,107197.0,402451.0,564031.0,678031.0,678031.0,678031.0,Sensible heat,United States,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,US

@@ -1,0 +1,3 @@
+ID,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Lithium-Ion Battery Storage_Cumulative Rated Power_PT,6000.0,Lithium-Ion Battery Storage,Portugal,kW,GESDB,Cumulative Rated Power,National,PT
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_PT,3180.0,Lithium-Ion Battery Storage,Portugal,kWh,GESDB,Cumulative Rated Capacity,National,PT

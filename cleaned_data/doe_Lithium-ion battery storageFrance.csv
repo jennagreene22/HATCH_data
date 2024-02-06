@@ -1,0 +1,3 @@
+ID,2008,2013,2014,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Lithium-Ion Battery Storage_Cumulative Rated Power_FR,107.0,3409.0,9292.0,12292.0,Lithium-Ion Battery Storage,France,kW,GESDB,Cumulative Rated Power,National,FR
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_FR,163.71,1817.71,11954.52,14454.52,Lithium-Ion Battery Storage,France,kWh,GESDB,Cumulative Rated Capacity,National,FR

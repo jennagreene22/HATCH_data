@@ -1,0 +1,3 @@
+ID,2014,2017,2018,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Lithium-Ion Battery Storage_Cumulative Rated Power_TG,90.0,190.0,290.0,Lithium-Ion Battery Storage,Togo,kW,GESDB,Cumulative Rated Power,National,TG
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_TG,360.0,760.0,1160.0,Lithium-Ion Battery Storage,Togo,kWh,GESDB,Cumulative Rated Capacity,National,TG

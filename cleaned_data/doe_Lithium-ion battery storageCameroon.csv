@@ -1,0 +1,3 @@
+ID,2017,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Lithium-Ion Battery Storage_Cumulative Rated Power_CM,100.0,Lithium-Ion Battery Storage,Cameroon,kW,GESDB,Cumulative Rated Power,National,CM
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_CM,400.0,Lithium-Ion Battery Storage,Cameroon,kWh,GESDB,Cumulative Rated Capacity,National,CM

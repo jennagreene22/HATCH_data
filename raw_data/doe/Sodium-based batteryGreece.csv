@@ -1,0 +1,3 @@
+ID,2017,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Sodium-based battery_Cumulative Rated Capacity_GR,2400.0,Sodium-based battery,Greece,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,GR
+Sodium-based battery_Cumulative Rated Power_GR,800.0,Sodium-based battery,Greece,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,GR

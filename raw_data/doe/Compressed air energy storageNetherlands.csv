@@ -1,0 +1,3 @@
+ID,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Compressed air energy storage_Cumulative Rated Capacity_NL,6000.0,Compressed air energy storage,Netherlands,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,NL
+Compressed air energy storage_Cumulative Rated Power_NL,1000.0,Compressed air energy storage,Netherlands,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,NL

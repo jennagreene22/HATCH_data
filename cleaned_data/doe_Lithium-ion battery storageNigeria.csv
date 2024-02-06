@@ -1,0 +1,3 @@
+ID,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Lithium-Ion Battery Storage_Cumulative Rated Power_NG,1100.0,Lithium-Ion Battery Storage,Nigeria,kW,GESDB,Cumulative Rated Power,National,NG
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_NG,2200.0,Lithium-Ion Battery Storage,Nigeria,kWh,GESDB,Cumulative Rated Capacity,National,NG
