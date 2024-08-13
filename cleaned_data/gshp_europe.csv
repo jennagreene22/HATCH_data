@@ -1,0 +1,38 @@
+Country Name,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,Data Source,Technology Name,Spatial Scale,Metric,Unit,Country Code
+Belgium,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,BE
+Bulgaria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,BG
+Czechia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,CZ
+Denmark,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,DK
+Germany,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,DE
+Estonia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,EE
+Ireland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,IE
+Greece,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,GR
+Spain,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,ES
+France,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,FR
+Croatia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,HR
+Italy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,IT
+Cyprus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,CY
+Latvia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,LV
+Lithuania,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,LT
+Luxembourg,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,LU
+Hungary,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.001,0.002,0.007,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,HU
+Malta,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,MT
+Netherlands,0.04,0.06,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.09,0.08,0.049,0.057,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,NL
+Austria,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,AT
+Poland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,PL
+Portugal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,PT
+Romania,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,RO
+Slovenia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,SI
+Slovakia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,SK
+Finland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,FI
+Sweden,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,SE
+Iceland,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,IS
+Norway,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,NO
+United Kingdom,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,GB
+Bosnia and Herzegovina,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,BA
+Montenegro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,ME
+Moldova,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,MD
+North Macedonia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,MK
+Georgia,,,,,,,,,,,,,,,,,,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,GE
+Albania,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,AL
+Serbia,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Eurostat,Ground Source Heat Pumps,National,Installed thermal capacity,GW,RS
