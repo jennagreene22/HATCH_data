@@ -1,37 +1,37 @@
-Country Name,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2023,Data Source,Technology Name,Spatial Scale,Metric,Unit,Country Code
-Belgium,99.7,98.6,97.9,98.0,97.9,97.7,98.3,98.9,99.1,99.3,99.3,99.3,Eurostat,Flush toilet,National,Share of Households,%,BE
-Bulgaria,75.4,75.2,77.6,78.6,79.4,81.4,81.5,83.3,84.7,86.3,86.8,90.4,Eurostat,Flush toilet,National,Share of Households,%,BG
-Czechia,99.3,99.3,99.1,99.1,99.3,99.4,99.5,99.6,99.5,99.6,99.7,,Eurostat,Flush toilet,National,Share of Households,%,CZ
-Denmark,100.0,99.4,99.6,99.4,99.5,99.4,99.4,99.5,99.6,99.7,99.5,,Eurostat,Flush toilet,National,Share of Households,%,DK
-Germany,98.4,99.1,99.1,99.9,100.0,99.9,99.9,99.9,100.0,99.8,100.0,,Eurostat,Flush toilet,National,Share of Households,%,DE
-Estonia,88.9,90.4,91.4,91.9,92.8,93.1,93.1,93.9,94.7,95.3,96.0,,Eurostat,Flush toilet,National,Share of Households,%,EE
-Ireland,99.8,95.6,98.1,97.9,99.9,99.9,99.8,99.9,99.7,99.8,99.8,,Eurostat,Flush toilet,National,Share of Households,%,IE
-Greece,98.6,99.1,99.5,99.3,99.5,99.5,99.6,99.7,99.7,99.7,99.7,99.7,Eurostat,Flush toilet,National,Share of Households,%,GR
-Spain,100.0,100.0,99.9,99.9,99.9,99.9,99.7,99.9,99.8,99.6,99.6,,Eurostat,Flush toilet,National,Share of Households,%,ES
-France,99.3,99.4,99.5,99.5,99.5,99.5,99.4,99.4,99.5,99.5,99.3,99.2,Eurostat,Flush toilet,National,Share of Households,%,FR
-Croatia,99.4,98.3,97.5,98.3,98.0,98.1,98.3,98.4,98.7,98.9,98.6,,Eurostat,Flush toilet,National,Share of Households,%,HR
-Italy,99.8,99.6,99.4,98.9,99.2,99.4,99.6,99.4,99.4,99.2,99.3,99.1,Eurostat,Flush toilet,National,Share of Households,%,IT
-Cyprus,98.9,98.8,99.1,98.9,99.0,99.1,99.3,99.4,99.5,99.5,99.6,,Eurostat,Flush toilet,National,Share of Households,%,CY
-Latvia,83.2,83.5,83.8,84.8,85.3,86.4,87.1,89.1,90.1,91.3,92.0,94.0,Eurostat,Flush toilet,National,Share of Households,%,LV
-Lithuania,83.8,83.2,84.2,86.4,87.5,87.6,86.3,87.8,89.4,90.0,92.4,95.0,Eurostat,Flush toilet,National,Share of Households,%,LT
-Luxembourg,99.5,99.9,99.3,99.9,99.9,100.0,99.5,99.9,100.0,99.9,99.9,,Eurostat,Flush toilet,National,Share of Households,%,LU
-Hungary,93.4,95.0,94.8,94.7,94.7,96.1,95.7,96.1,96.1,96.9,98.4,,Eurostat,Flush toilet,National,Share of Households,%,HU
-Malta,99.9,99.9,99.9,99.9,99.9,100.0,100.0,100.0,99.9,99.9,99.9,100.0,Eurostat,Flush toilet,National,Share of Households,%,MT
-Netherlands,100.0,100.0,100.0,100.0,100.0,100.0,99.9,99.9,100.0,99.9,100.0,,Eurostat,Flush toilet,National,Share of Households,%,NL
-Austria,98.8,98.8,99.0,99.0,99.0,99.0,99.1,99.4,99.3,99.5,99.2,99.6,Eurostat,Flush toilet,National,Share of Households,%,AT
-Poland,95.9,96.0,96.5,96.8,96.9,97.3,97.6,97.5,97.9,98.3,98.6,99.4,Eurostat,Flush toilet,National,Share of Households,%,PL
-Portugal,98.4,98.8,99.1,99.1,99.0,99.0,98.9,99.0,99.2,99.3,99.4,99.6,Eurostat,Flush toilet,National,Share of Households,%,PT
-Romania,59.1,61.2,63.2,64.1,65.7,67.2,67.4,70.3,72.3,75.8,77.2,84.6,Eurostat,Flush toilet,National,Share of Households,%,RO
-Slovenia,99.6,99.5,99.6,99.5,99.4,99.7,99.7,99.8,99.8,99.9,99.9,99.9,Eurostat,Flush toilet,National,Share of Households,%,SI
-Slovakia,98.8,98.6,98.9,99.4,98.7,98.6,98.6,98.5,98.4,98.2,99.0,,Eurostat,Flush toilet,National,Share of Households,%,SK
-Finland,99.3,99.3,99.4,99.4,99.4,99.5,99.5,99.6,99.6,99.7,99.7,,Eurostat,Flush toilet,National,Share of Households,%,FI
-Sweden,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,,Eurostat,Flush toilet,National,Share of Households,%,SE
-Iceland,99.6,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,,,Eurostat,Flush toilet,National,Share of Households,%,IS
-Norway,99.9,99.7,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,,Eurostat,Flush toilet,National,Share of Households,%,NO
-Switzerland,99.9,99.9,99.9,100.0,99.8,100.0,100.0,100.0,100.0,99.9,100.0,,Eurostat,Flush toilet,National,Share of Households,%,CH
-United Kingdom,99.5,99.9,99.7,99.8,99.6,99.6,99.6,99.5,99.5,,,,Eurostat,Flush toilet,National,Share of Households,%,GB
-Montenegro,,,,96.6,96.9,95.9,95.9,97.8,99.2,99.2,99.1,,Eurostat,Flush toilet,National,Share of Households,%,ME
-North Macedonia,86.9,88.4,87.3,89.7,90.5,94.3,94.2,95.6,95.7,96.1,96.8,,Eurostat,Flush toilet,National,Share of Households,%,MK
-Albania,,,,,,,,95.6,94.8,96.7,96.8,,Eurostat,Flush toilet,National,Share of Households,%,AL
-Serbia,,,,95.2,95.8,95.8,95.6,95.7,97.1,97.3,98.2,,Eurostat,Flush toilet,National,Share of Households,%,RS
-Türkiye,,91.0,90.9,91.2,92.4,93.5,94.8,95.4,95.7,96.2,96.4,,Eurostat,Flush toilet,National,Share of Households,%,TR
+Country Name,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2023,Data Source,Technology Name,Spatial Scale,Metric,Unit,Country Code,ID
+Belgium,99.7,98.6,97.9,98.0,97.9,97.7,98.3,98.9,99.1,99.3,99.3,99.3,Eurostat,Flush toilet,National,Share of Households,%,BE,Flush toilet_Share of Households_BE
+Bulgaria,75.4,75.2,77.6,78.6,79.4,81.4,81.5,83.3,84.7,86.3,86.8,90.4,Eurostat,Flush toilet,National,Share of Households,%,BG,Flush toilet_Share of Households_BG
+Czechia,99.3,99.3,99.1,99.1,99.3,99.4,99.5,99.6,99.5,99.6,99.7,,Eurostat,Flush toilet,National,Share of Households,%,CZ,Flush toilet_Share of Households_CZ
+Denmark,100.0,99.4,99.6,99.4,99.5,99.4,99.4,99.5,99.6,99.7,99.5,,Eurostat,Flush toilet,National,Share of Households,%,DK,Flush toilet_Share of Households_DK
+Germany,98.4,99.1,99.1,99.9,100.0,99.9,99.9,99.9,100.0,99.8,100.0,,Eurostat,Flush toilet,National,Share of Households,%,DE,Flush toilet_Share of Households_DE
+Estonia,88.9,90.4,91.4,91.9,92.8,93.1,93.1,93.9,94.7,95.3,96.0,,Eurostat,Flush toilet,National,Share of Households,%,EE,Flush toilet_Share of Households_EE
+Ireland,99.8,95.6,98.1,97.9,99.9,99.9,99.8,99.9,99.7,99.8,99.8,,Eurostat,Flush toilet,National,Share of Households,%,IE,Flush toilet_Share of Households_IE
+Greece,98.6,99.1,99.5,99.3,99.5,99.5,99.6,99.7,99.7,99.7,99.7,99.7,Eurostat,Flush toilet,National,Share of Households,%,GR,Flush toilet_Share of Households_GR
+Spain,100.0,100.0,99.9,99.9,99.9,99.9,99.7,99.9,99.8,99.6,99.6,,Eurostat,Flush toilet,National,Share of Households,%,ES,Flush toilet_Share of Households_ES
+France,99.3,99.4,99.5,99.5,99.5,99.5,99.4,99.4,99.5,99.5,99.3,99.2,Eurostat,Flush toilet,National,Share of Households,%,FR,Flush toilet_Share of Households_FR
+Croatia,99.4,98.3,97.5,98.3,98.0,98.1,98.3,98.4,98.7,98.9,98.6,,Eurostat,Flush toilet,National,Share of Households,%,HR,Flush toilet_Share of Households_HR
+Italy,99.8,99.6,99.4,98.9,99.2,99.4,99.6,99.4,99.4,99.2,99.3,99.1,Eurostat,Flush toilet,National,Share of Households,%,IT,Flush toilet_Share of Households_IT
+Cyprus,98.9,98.8,99.1,98.9,99.0,99.1,99.3,99.4,99.5,99.5,99.6,,Eurostat,Flush toilet,National,Share of Households,%,CY,Flush toilet_Share of Households_CY
+Latvia,83.2,83.5,83.8,84.8,85.3,86.4,87.1,89.1,90.1,91.3,92.0,94.0,Eurostat,Flush toilet,National,Share of Households,%,LV,Flush toilet_Share of Households_LV
+Lithuania,83.8,83.2,84.2,86.4,87.5,87.6,86.3,87.8,89.4,90.0,92.4,95.0,Eurostat,Flush toilet,National,Share of Households,%,LT,Flush toilet_Share of Households_LT
+Luxembourg,99.5,99.9,99.3,99.9,99.9,100.0,99.5,99.9,100.0,99.9,99.9,,Eurostat,Flush toilet,National,Share of Households,%,LU,Flush toilet_Share of Households_LU
+Hungary,93.4,95.0,94.8,94.7,94.7,96.1,95.7,96.1,96.1,96.9,98.4,,Eurostat,Flush toilet,National,Share of Households,%,HU,Flush toilet_Share of Households_HU
+Malta,99.9,99.9,99.9,99.9,99.9,100.0,100.0,100.0,99.9,99.9,99.9,100.0,Eurostat,Flush toilet,National,Share of Households,%,MT,Flush toilet_Share of Households_MT
+Netherlands,100.0,100.0,100.0,100.0,100.0,100.0,99.9,99.9,100.0,99.9,100.0,,Eurostat,Flush toilet,National,Share of Households,%,NL,Flush toilet_Share of Households_NL
+Austria,98.8,98.8,99.0,99.0,99.0,99.0,99.1,99.4,99.3,99.5,99.2,99.6,Eurostat,Flush toilet,National,Share of Households,%,AT,Flush toilet_Share of Households_AT
+Poland,95.9,96.0,96.5,96.8,96.9,97.3,97.6,97.5,97.9,98.3,98.6,99.4,Eurostat,Flush toilet,National,Share of Households,%,PL,Flush toilet_Share of Households_PL
+Portugal,98.4,98.8,99.1,99.1,99.0,99.0,98.9,99.0,99.2,99.3,99.4,99.6,Eurostat,Flush toilet,National,Share of Households,%,PT,Flush toilet_Share of Households_PT
+Romania,59.1,61.2,63.2,64.1,65.7,67.2,67.4,70.3,72.3,75.8,77.2,84.6,Eurostat,Flush toilet,National,Share of Households,%,RO,Flush toilet_Share of Households_RO
+Slovenia,99.6,99.5,99.6,99.5,99.4,99.7,99.7,99.8,99.8,99.9,99.9,99.9,Eurostat,Flush toilet,National,Share of Households,%,SI,Flush toilet_Share of Households_SI
+Slovakia,98.8,98.6,98.9,99.4,98.7,98.6,98.6,98.5,98.4,98.2,99.0,,Eurostat,Flush toilet,National,Share of Households,%,SK,Flush toilet_Share of Households_SK
+Finland,99.3,99.3,99.4,99.4,99.4,99.5,99.5,99.6,99.6,99.7,99.7,,Eurostat,Flush toilet,National,Share of Households,%,FI,Flush toilet_Share of Households_FI
+Sweden,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,,Eurostat,Flush toilet,National,Share of Households,%,SE,Flush toilet_Share of Households_SE
+Iceland,99.6,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,,,Eurostat,Flush toilet,National,Share of Households,%,IS,Flush toilet_Share of Households_IS
+Norway,99.9,99.7,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,,Eurostat,Flush toilet,National,Share of Households,%,NO,Flush toilet_Share of Households_NO
+Switzerland,99.9,99.9,99.9,100.0,99.8,100.0,100.0,100.0,100.0,99.9,100.0,,Eurostat,Flush toilet,National,Share of Households,%,CH,Flush toilet_Share of Households_CH
+United Kingdom,99.5,99.9,99.7,99.8,99.6,99.6,99.6,99.5,99.5,,,,Eurostat,Flush toilet,National,Share of Households,%,GB,Flush toilet_Share of Households_GB
+Montenegro,,,,96.6,96.9,95.9,95.9,97.8,99.2,99.2,99.1,,Eurostat,Flush toilet,National,Share of Households,%,ME,Flush toilet_Share of Households_ME
+North Macedonia,86.9,88.4,87.3,89.7,90.5,94.3,94.2,95.6,95.7,96.1,96.8,,Eurostat,Flush toilet,National,Share of Households,%,MK,Flush toilet_Share of Households_MK
+Albania,,,,,,,,95.6,94.8,96.7,96.8,,Eurostat,Flush toilet,National,Share of Households,%,AL,Flush toilet_Share of Households_AL
+Serbia,,,,95.2,95.8,95.8,95.6,95.7,97.1,97.3,98.2,,Eurostat,Flush toilet,National,Share of Households,%,RS,Flush toilet_Share of Households_RS
+Türkiye,,91.0,90.9,91.2,92.4,93.5,94.8,95.4,95.7,96.2,96.4,,Eurostat,Flush toilet,National,Share of Households,%,TR,Flush toilet_Share of Households_TR
