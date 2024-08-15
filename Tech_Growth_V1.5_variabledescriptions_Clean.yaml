@@ -8,7 +8,7 @@
     unit: million pounds
     category: Chemicals and Industry
 - Annual Production|Air-Source Heat Pumps:
-    description: Annual shipments of Air Source Heat Pumps
+    description: Annual Production of Air Source Heat Pumps
     unit: '-'
     category: Energy End-Use
 - Annual Production|All Biofuels:
@@ -391,6 +391,10 @@
     description: Number of transistors per microprocessor chips
     unit: Transistors per microprocessor
     category: Digitalization
+- Cumulative Number of Units|Electric Bicycles:
+    description: Total Number of Electric Bicycles
+    unit: '-'
+    category: Transportation
 - Cumulative Number of Units|High Speed Rail:
     description: Total length of high-speed railway network in commercial operation
     unit: kilometers
@@ -572,7 +576,7 @@
     unit: MW
     category: Transportation
 - Cumulative Total Capacity|Refrigerators:
-    description: Cumulative electricity generation from solid biomass
+    description: Cumulative energy capacity of refrigerators
     unit: MW
     category: Household Appliance
 - Cumulative Total Capacity|Stationary Steam Engines:
