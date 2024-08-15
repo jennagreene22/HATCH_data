@@ -87,6 +87,10 @@
     description: Annual production of cyclohexane
     unit: million pounds
     category: Chemicals and Industry
+- Annual Production|Electric Bicycles:
+    description: Sales of electric bicycles
+    unit: '-'
+    category: Transportation
 - Annual Production|Electricity:
     description: Annual production of electricity
     unit: TWh
@@ -391,14 +395,14 @@
     description: Number of transistors per microprocessor chips
     unit: Transistors per microprocessor
     category: Digitalization
-- Cumulative Number of Units|Electric Bicycles:
-    description: Total Number of Electric Bicycles
-    unit: '-'
-    category: Transportation
 - Cumulative Number of Units|High Speed Rail:
     description: Total length of high-speed railway network in commercial operation
     unit: kilometers
     category: Infrastructure
+- Cumulative Number of Units|Motorcycles:
+    description: Total number of motorcycles
+    unit: Number
+    category: Transportation
 - Cumulative Number of Units|Natural Gas Pipelines:
     description: Total miles of natural gas pipelines (including transmission, distribution, and gathering pipelines)
     unit: miles
@@ -635,6 +639,10 @@
     description: Cumulative electricity generation from solid biomass
     unit: MW
     category: Energy Supply
+- Installed Capacity|Ground Source Heat Pumps:
+    description: Installed thermal capacity of GSHPs
+    unit: GW
+    category: Energy Supply
 - Installed Capacity|Solar Thermal Energy:
     description: Installed capacity of solar thermal energy systems
     unit: MW
@@ -655,6 +663,10 @@
     description: Number of crop harvesters in operation
     unit: '-'
     category: Food and Health
+- Number of Units|Home Air Conditioning:
+    description: Stock of home air conditioning units
+    unit: million
+    category: Household Appliance
 - Number of Units|Nuclear Weapons:
     description: Number of intact nuclear weapons in stockpiles
     unit: '-'
