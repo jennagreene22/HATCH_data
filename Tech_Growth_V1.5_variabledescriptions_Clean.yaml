@@ -105,7 +105,7 @@
     category: Chemicals and Industry
 - Annual Production|Ethanol:
     description: Annual production of ethanol
-    unit: million pounds
+    unit: Liters
     category: Chemicals and Industry
 - Annual Production|Ethylene:
     description: Annual Production of ethylene
@@ -401,7 +401,7 @@
     category: Infrastructure
 - Cumulative Number of Units|Motorcycles:
     description: Total number of motorcycles
-    unit: Number
+    unit: '-'
     category: Transportation
 - Cumulative Number of Units|Natural Gas Pipelines:
     description: Total miles of natural gas pipelines (including transmission, distribution, and gathering pipelines)
