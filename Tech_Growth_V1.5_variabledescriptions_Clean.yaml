@@ -563,7 +563,7 @@
     description: Total capacity of direct-use geothermal heat pumps
     unit: MWt
     category: Energy End-Use
-- Cumulative Total Capacity|Jet Aircraft:
+- Cumulative Total Capacity|Jet Aircrafts:
     description: Total energy capacity of  jet aircrafts
     unit: MW
     category: Transportation
