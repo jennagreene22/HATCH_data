@@ -651,7 +651,7 @@
     description: Net capacity of oil refineries using fluid catalytic cracking
     unit: MW
     category: Energy Supply
-- Number of Units|Jet Aircrafts:
+- Number of Units|Jet Aircraft:
     description: Total number of aircrafts
     unit: '-'
     category: Transportation
