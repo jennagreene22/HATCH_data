@@ -395,21 +395,25 @@
     description: Number of transistors per microprocessor chips
     unit: Transistors per microprocessor
     category: Digitalization
+- Cumulative Number of Units|CO2 Pipelines:
+    description: Total km of CO2 pipelines
+    unit: km
+    category: Infrastructure
 - Cumulative Number of Units|High Speed Rail:
     description: Total length of high-speed railway network in commercial operation
-    unit: kilometers
+    unit: km
     category: Infrastructure
 - Cumulative Number of Units|Motorcycles:
     description: Total number of motorcycles
     unit: '-'
     category: Transportation
 - Cumulative Number of Units|Natural Gas Pipelines:
-    description: Total miles of natural gas pipelines (including transmission, distribution, and gathering pipelines)
-    unit: miles
+    description: Total km of natural gas pipelines (including transmission, distribution, and gathering pipelines)
+    unit: km
     category: Infrastructure
 - Cumulative Number of Units|Oil Pipelines:
-    description: Total miles of oil pipelines
-    unit: miles
+    description: Total km of oil pipelines
+    unit: km
     category: Infrastructure
 - Cumulative Number of Units|Public Roads:
     description: Total mileage for all public roads
