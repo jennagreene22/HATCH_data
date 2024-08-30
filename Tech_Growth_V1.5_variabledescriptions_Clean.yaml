@@ -399,10 +399,6 @@
     description: Total km of CO2 pipelines
     unit: km
     category: Infrastructure
-- Cumulative Number of Units|High Speed Rail:
-    description: Total length of high-speed railway network in commercial operation
-    unit: km
-    category: Infrastructure
 - Cumulative Number of Units|Motorcycles:
     description: Total number of motorcycles
     unit: '-'
@@ -671,6 +667,10 @@
     description: Number of crop harvesters in operation
     unit: '-'
     category: Food and Health
+- Number of Units|High Speed Rail:
+    description: Total length of high-speed railway network in commercial operation
+    unit: km
+    category: Infrastructure
 - Number of Units|Home Air Conditioning:
     description: Stock of home air conditioning units
     unit: million
