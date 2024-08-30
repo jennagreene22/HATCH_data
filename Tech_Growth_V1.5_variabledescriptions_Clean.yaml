@@ -153,7 +153,7 @@
     category: Materials
 - Annual Production|Liquefied Natural Gas Exports:
     description: Annual exports of liquified natural gas
-    unit: billion cubic feet
+    unit: Mtpa
     category: Energy Supply
 - Annual Production|Lithium Mine Production:
     description: Annual production of lithium mining
